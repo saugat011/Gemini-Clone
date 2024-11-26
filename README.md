@@ -44,24 +44,6 @@ Follow these steps to get the project running locally:
 ## Install Dependencies
 ```bash
  npm install
-
-Run the Development Server:
-npm run dev
-
-Build for Production:
-npm run build
-
-Preview Production Build:
-npm run preview
-
-
-
-
- 
-
-
-
-
-
+ npm run dev
 
 
