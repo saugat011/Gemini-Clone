@@ -67,17 +67,17 @@ https://gemini-replica.netlify.app/
 
 ## 🌟 Project Structure
 📂 gemini-clone
-├── 📂 public         # Public assets
-├── 📂 src            # Source files
-│   ├── 📂 components # Reusable React components
-│   ├── 📂 Config     # API configurations and logic
-│   ├── 📂 styles     # CSS/SCSS files
-│   ├── App.jsx       # Root application component
-│   ├── main.jsx      # Application entry point
-├── .eslintrc         # ESLint configuration
-├── vite.config.js    # Vite configuration
-├── package.json      # Project dependencies
-└── README.md         # Project documentation
+├── 📂 public # Public assets
+├── 📂 src # Source files
+│ ├── 📂 components # Reusable React components
+│ ├── 📂 Config # API configurations and logic
+│ ├── 📂 styles # CSS/SCSS files
+│ ├── App.jsx # Root application component
+│ ├── main.jsx # Application entry point
+├── .eslintrc # ESLint configuration
+├── vite.config.js # Vite configuration
+├── package.json # Project dependencies
+└── README.md # Project documentation
 
 ## 🛠️ API Integration
 
