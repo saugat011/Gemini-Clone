@@ -39,10 +39,25 @@ Follow these steps to get the project running locally:
    ```bash
    git clone https://github.com/your-username/gemini-clone.git
    cd gemini-clone
-  
-## Install Dependencies
-```bash
- npm install
- npm run dev
+
+## 💻 Install Dependencies
+npm install
+
+## 🚀 Run the Development Server
+npm run dev
+The application will be live at http://localhost:5173/.
+
+## 🏗️ Build for Production
+npm run build
+
+## 🔍 Preview Production Build
+npm run preview
+
+## 🖥️ Demo
+https://gemini-replica.netlify.app/
+
+
+
+
 
 
