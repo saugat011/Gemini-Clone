@@ -4,11 +4,6 @@
 
 ---
 
-## 🖼️ Screenshot of the Gemini Clone Interface
-*(Include a screenshot or GIF of the interface here for better visual appeal)*
-
----
-
 ## 🚀 Features
 
 - **🔥 Real-Time Typing Effect**: Dynamic text display for engaging user interactions.
@@ -44,3 +39,15 @@ Follow these steps to get the project running locally:
    ```bash
    git clone https://github.com/your-username/gemini-clone.git
    cd gemini-clone
+   # Application Setup and Usage Guide
+
+## Install Dependencies
+```bash
+npm install
+
+
+
+
+
+
+
