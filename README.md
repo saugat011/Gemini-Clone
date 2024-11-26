@@ -39,8 +39,7 @@ Follow these steps to get the project running locally:
    ```bash
    git clone https://github.com/your-username/gemini-clone.git
    cd gemini-clone
-   # Application Setup and Usage Guide
-
+  
 ## Install Dependencies
 ```bash
  npm install
